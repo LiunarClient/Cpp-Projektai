@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1731796298 source:c:\users\manfr\desktop\informatikos projektai\snakeprojektas\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+
